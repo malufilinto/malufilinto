@@ -28,7 +28,7 @@
   ##
   
   <div>
-    <a href="https://www.linkedin.com/in/malufilinto/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="center></a>
+    <a href="https://www.linkedin.com/in/malufilinto/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="center"></a>
     <a href="marialuiza.filinto@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" align="center">
   </a><br>
 
