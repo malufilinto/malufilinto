@@ -28,12 +28,9 @@
   ##
   
   <div>
-    <a href="https://www.linkedin.com/in/malufilinto/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    
-      <a href="malufilinto@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" align="center">
-  </a>
- <br>
+    <a href="https://www.linkedin.com/in/malufilinto/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a>
+    <a href="marialuiza.filinto@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" align="center">
+  </a><br>
 
 ![Snake animation](https://github.com/malufilinto/malufilinto/blob/output/github-contribution-grid-snake.gif)
     </div>
