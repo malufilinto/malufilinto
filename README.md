@@ -2,7 +2,7 @@
 👩🏽‍💻 Desenvolvedora Junior <br>
 📓 Estudante de UX Design <br>
 🎈 SP <br>
-✨ Meus pronomes são: Ela e Dela
+
 
 <div>
   <a href="https://github.com/malufilinto">
