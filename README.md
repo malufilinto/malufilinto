@@ -11,12 +11,13 @@
 
 
 
-<div>
+<div align="center">
   <a href="https://github.com/malufilinto">
-    <img height="180cm" src="http://github-readme-stats.vercel.app/api?username=malufilinto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"width="400" height="200">
-    <img height="180cm" src="http://github-readme-stats.vercel.app/api/top-langs/?username=malufilinto&layout=compact&langs_count=16&theme=dracula"/ width="400" height="200">
-    </div>  
-  
+    <img src="http://github-readme-stats.vercel.app/api?username=malufilinto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="400" height="200"/>
+    <img src="http://github-readme-stats.vercel.app/api/top-langs/?username=malufilinto&layout=compact&langs_count=16&theme=dracula" width="400" height="200"/>
+  </a>
+</div>
+
 <div align="center"><br>
     <img alt="Java" height="46" width="65" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
     <img  alt="MySQL" height="80" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
@@ -39,7 +40,10 @@
   <a href = "mailto:marialuiza.filinto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"  align="center"></a>
   </a><br>
 
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/malufilinto/malufilinto/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/malufilinto/malufilinto/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/malufilinto/malufilinto/output/github-contribution-grid-snake.svg">
-</picture>
+<!---<h2 align="center"> SPOTIFY PLAYING  </h2>  
+
+ <div style="display: flex; align-items: center;">
+  <img src="" alt="spotify"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHZzOGE3cjc4Z2dvZHhweXp1bHUzenl4MzE3N2R4bm45OGUxeXIyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif" alt="dance"/>
+</div> -->
+  
