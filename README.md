@@ -1,7 +1,14 @@
 👋 Oi eu sou a Malu<br>
+
+💡 Em transição de carreira para **Qualidade de Software (QA)**  <br>
 👩🏽‍💻 Desenvolvedora Junior <br>
-📓 Estudante de UX Design <br>
+🐞 Construindo minha jornada como **QA Júnior** e registrando meus estudos aqui no GitHub <br>
 🎈 SP <br>
+## 🎯 Objetivo
+> Criar uma base sólida em QA, evoluir para automação e colaborar em projetos que façam a diferença na experiência do usuário. <br> 
+
+
+
 
 
 <div>
@@ -32,5 +39,7 @@
   <a href = "mailto:marialuiza.filinto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"  align="center"></a>
   </a><br>
 
-![Snake animation](https://github.com/malufilinto/malufilinto/blob/output/github-contribution-grid-snake.svg)
-    </div>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/malufilinto/malufilinto/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/malufilinto/malufilinto/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/malufilinto/malufilinto/output/github-contribution-grid-snake.svg">
+</picture>
