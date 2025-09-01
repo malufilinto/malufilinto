@@ -39,10 +39,6 @@
   <a href = "mailto:marialuiza.filinto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"  align="center"></a>
   </a><br>
 
-<!---<h2 align="center"> SPOTIFY PLAYING  </h2>  
 
- <div style="display: flex; align-items: center;">
-  <img src="" alt="spotify"/>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHZzOGE3cjc4Z2dvZHhweXp1bHUzenl4MzE3N2R4bm45OGUxeXIyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif" alt="dance"/>
-</div> -->
-  
+   
+
