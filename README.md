@@ -1,6 +1,6 @@
 👋 Oi eu sou a Malu<br>
 
-💡 Em transição de carreira para **Qualidade de Software (QA)**  <br>
+💡 Em transição de carreira  <br>
 👩🏽‍💻 Desenvolvedora Junior <br>
 🐞 Construindo minha jornada e registrando meus estudos aqui no GitHub <br>
 🎈 SP <br>
