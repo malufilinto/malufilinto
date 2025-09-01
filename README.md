@@ -2,10 +2,9 @@
 
 💡 Em transição de carreira para **Qualidade de Software (QA)**  <br>
 👩🏽‍💻 Desenvolvedora Junior <br>
-🐞 Construindo minha jornada como **QA Júnior** e registrando meus estudos aqui no GitHub <br>
+🐞 Construindo minha jornada e registrando meus estudos aqui no GitHub <br>
 🎈 SP <br>
-## 🎯 Objetivo
-> Criar uma base sólida em QA, evoluir para automação e colaborar em projetos que façam a diferença na experiência do usuário. <br> 
+
 
 
 
